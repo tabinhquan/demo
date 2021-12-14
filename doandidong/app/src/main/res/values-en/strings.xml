@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectMobile</string>
+    <string name="title_activity_google_maps_api">google_maps_api</string>
+    <string name="qlgame">AppStore</string>
+    <string name="username">Username ...</string>
+    <string name="passwrd">Password ...</string>
+    <string name="login">Login</string>
+    <string name="qltheloai">Categories</string>
+    <string name="theloai">List Categories</string>
+    <string name="dsgame">List Game</string>
+    <string name="tttheloai">Category Information</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="del">Delete</string>
+    <string name="nph">Release</string>
+    <string name="gia">Price</string>
+    <string name="tl">Categories</string>
+    <string name="ttsanpham">Product Information</string>
+    <string name="fullname">FullName: Tạ Bỉnh Quân</string>
+    <string name="cl">Class: D18_TH04</string>
+    <string name="idsv">ID: DH51801425</string>
+    <string name="mail">Email: tabinhquan@gmail.com</string>
+    <string name="phone">Phone: 0708552053</string>
+</resources>

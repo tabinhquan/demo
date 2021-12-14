@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">doandidong</string>
+    <string name="title_activity_google_maps_api">google_maps_api</string>
+    <string name="qlgame">Quản Lý Game</string>
+    <string name="username">Tài khoản ...</string>
+    <string name="passwrd">Mật khẩu ...</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="qltheloai">Quản Lý Thể Loại</string>
+    <string name="theloai">Danh Sách Thể Loại</string>
+    <string name="dsgame">Danh Sách Game</string>
+    <string name="tttheloai">Thông Tin Thể Loại</string>
+    <string name="id">Mã</string>
+    <string name="name">Tên</string>
+    <string name="add">Thêm</string>
+    <string name="update">Sửa</string>
+    <string name="del">Xóa</string>
+    <string name="nph">NPH</string>
+    <string name="gia">Giá</string>
+    <string name="tl">Thể loại</string>
+    <string name="ttsanpham">Thông Tin Sản Phẩm</string>
+    <string name="fullname">Họ Tên: Tạ Bỉnh Quân</string>
+    <string name="cl">Lớp: D18_TH04</string>
+    <string name="idsv">MSSV: DH51801425</string>
+    <string name="mail">Email: tabinhquan@gmail.com</string>
+    <string name="phone">SĐT: 0708552053</string>
+</resources>

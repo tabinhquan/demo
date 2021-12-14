@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.1111111111111111" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/layout/about_menu.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/layout/activity_dial.xml" value="0.152" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/layout/activity_dskho_hang.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/layout/activity_dssan_pham.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/layout/activity_google_maps_api.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/layout/activity_kho_hang.xml" value="0.4" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/layout/activity_main_ql.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/layout/activity_san_pham.xml" value="0.23809523809523808" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/layout/bando.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/layout/ggmap.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/layout/menu.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/layout/sanphamitem.xml" value="0.2" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/app/src/main/res/menu/menu_item.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/doandidong/app/src/main/res/layout/activity_dial.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/doandidong/app/src/main/res/layout/activity_dskho_hang.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/doandidong/app/src/main/res/layout/activity_dssan_pham.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/doandidong/app/src/main/res/layout/activity_google_maps_api.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/doandidong/app/src/main/res/layout/activity_kho_hang.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/doandidong/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/doandidong/app/src/main/res/layout/activity_main_ql.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/doandidong/app/src/main/res/layout/activity_san_pham.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/doandidong/app/src/main/res/layout/sanphamitem.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/doandidong/doandidong/app/src/main/res/menu/menu_item.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
